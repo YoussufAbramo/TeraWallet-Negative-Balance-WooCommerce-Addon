@@ -2,7 +2,7 @@
 === TeraWallet-Negative-Balance ===
  
 Contributors: youssufabramo
-Tags: Woocommerce, wallet, terawallet, payment method, payment option, payment
+Tags: woo wallet, woocommerce wallet, wp wallet, user wallet, refund, cashback, partial payment, wallet, wc wallet, woocommerce credits, Woocommerce, wallet, terawallet, payment method, payment option, payment
 Requires at least: 5.9
 Tested up to: 6.2
 Stable tag: 1.0
@@ -28,5 +28,5 @@ Just activate it and it will work automatically. No actions required after the i
 Simply deactivate and delete the plugin. 
   
 == Changelog ==
-= 1.0 =
+= 1.0.0 =
 * Plugin released. 
